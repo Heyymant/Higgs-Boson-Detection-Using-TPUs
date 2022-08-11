@@ -7,4 +7,4 @@ A pre defined dataset of 21 high level and 7 low level features are used for tra
 
 Wide and Deep Neural Networks are used to attain the desired task.
 
-Since the datasetis very used we have used the TPUs for faster computation provided by Kaggle.
+Since the dataset we used is very used we have used the TPUs for faster computation provided by Kaggle.
